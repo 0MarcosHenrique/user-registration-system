@@ -15,7 +15,7 @@ The glorious frontend for the User Registration API. This is where the magic hap
 
 If the backend was a telenovela, the frontend is the **high-budget spin-off**! After conquering Prisma, MongoDB, and a thousand bugs on the server side, it was time to give the users (that's you) a way to actually interact with the data.
 
-This interface was born to consume the `0MarcosHenrique/API` and provide a complete, real-world registration experience.
+This interface was born to consume the `0MarcosHenrique/fullstack-auth-system` and provide a complete, real-world registration experience.
 
 ---
 
@@ -55,7 +55,7 @@ This interface was born to consume the `0MarcosHenrique/API` and provide a compl
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/0MarcosHenrique/user-registration-system.git
-    cd user-registration-system
+    cd user-authentication-platform
 Install dependencies
 
 bash
