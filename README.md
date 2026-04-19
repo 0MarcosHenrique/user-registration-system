@@ -54,7 +54,7 @@ This interface was born to consume the `0MarcosHenrique/fullstack-auth-system` a
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/0MarcosHenrique/user-registration-system.git
+    git clone https://github.com/0MarcosHenrique/user-authentication-platform.git
     cd user-authentication-platform
 Install dependencies
 
